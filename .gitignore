@@ -1,7 +1,3 @@
-# compiled binary
-unix-shell-clone.exe
-unix-shell-clone
-
 # object files
 *.o
 *.obj
