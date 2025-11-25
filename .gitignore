@@ -1,0 +1,12 @@
+# compiled binary
+unix-shell-clone.exe
+unix-shell-clone
+
+# object files
+*.o
+*.obj
+
+# editor / OS files
+*.swp
+*.swo
+.DS_Store
